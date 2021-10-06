@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"","subject":"","keywords":"","creator":"Chromium","producer":"Skia/PDF m94","creationdate":"D:20211006172402+00'00'","moddate":"D:20211006172402+00'00'","trapped":"","fileName":"certificate_covid_gov_md_VITaltie.pdf","bounds":[[2530,1100]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
